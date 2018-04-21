@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QueryIntegrate.iml" filepath="$PROJECT_DIR$/.idea/modules/QueryIntegrate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QueryIntegrate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/QueryIntegrate_main.iml" group="QueryIntegrate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QueryIntegrate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/QueryIntegrate_test.iml" group="QueryIntegrate" />
+    </modules>
+  </component>
+</project>
